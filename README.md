@@ -1,7 +1,5 @@
 # An api to classify images
 
-Project Description:
-
 ## This a project to build an api to classifiy if an x-ray has Pneumonia or not. An x-ray image will be passed to the api server and the api server will be able to send following JSON response:
 1) Prediction of the image i.e if the patient has Pneumonia or not.
 2) Confidence of the classification in terms of percentage.
