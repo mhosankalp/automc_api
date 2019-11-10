@@ -27,6 +27,6 @@ A step by step series of examples that tell you how to get a development env run
 7. Request the api by send a x-ray image and it will send a JSON response
 
 result = {
-      "prediction" : class_names[np.argmax(prediction_array)],
-      "confidence" : '{:2.0f}%'.format(100*np.max(prediction_array))
+      "prediction" : 'Normal' ,
+      "confidence" : '97%')
   }
